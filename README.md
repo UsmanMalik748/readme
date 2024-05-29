@@ -1,6 +1,4 @@
-# reame
-
-#Hello👋 I'm M Usman👨‍💻
+# Hello👋 I'm M Usman👨‍💻
 A well-qualified Full-Stack Developer is familiar with a wide range of programming utilities and languages. Knowledgeable of backend and frontend development requirements. Handles any part of the process with ease. Collaborative team player with excellent technical abilities offering 7 years of related experience.
 
 GitHub Linkedin Contact devtree
