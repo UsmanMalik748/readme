@@ -9,55 +9,25 @@ Looking for a dedicated and highly skilled Developer who can bring your vision t
 
 ### Backend:
 
-- ✅ PHP
-- ✅ Laravel Framework / Livewire
-
-- ✅ Symfony
-- ✅ Unit / Functional testing
-
-- ✅ OOP / MVC / Design patterns
-- ✅ Dialogflow (Chatbot, Webhook)
-
+- ✅ PHP - ✅ Laravel Framework / Livewire - ✅ Symfony - ✅ Unit / Functional testing - ✅ OOP / MVC / Design patterns - ✅ Dialogflow (Chatbot, Webhook)
 - ✅ RESTful API for applications
 - ✅ CI / CD
 
 ### Frontend & Backend:
 
-- ✅ Javascript
-- ✅ React / Redux / GraphQL / React Native
-
-- ✅ Vue.JS / Vuex / Vuetify / Nuxt.JS
-- ✅ TypeScript
-
-- ✅ Node
-- ✅ jQuery / jQuery UI
-
-- ✅ HTML5 / CSS3 / LESS / SASS / SCSS
-- ✅ Bootstrap UI / ﻿Semantic UI / ﻿Element UI / ﻿﻿Bulma / Foundation
-
-- ✅ Webpack / Gulp
-- ✅ Jest / Cypress
-
-- ✅ CKEditor
+- ✅ Javascript - ✅ React / Redux / GraphQL / React Native - ✅ Vue.JS / Vuex / Vuetify / Nuxt.JS - ✅ TypeScript
+- ✅ Node - ✅ jQuery / jQuery UI - ✅ HTML5 / CSS3 / LESS / SASS / SCSS - ✅ Bootstrap UI / ﻿Semantic UI / ﻿Element UI / ﻿﻿Bulma / Foundation 
+- ✅ Webpack / Gulp - ✅ Jest / Cypress - ✅ CKEditor
 
 ### Databases:
 
-- ✅ MySQL
-- ✅ MongoDB
-
-- ✅ MariaDB
-- ✅ Redis
-
-- ✅ PostgreSQL
-- ✅ Oracle
-
-- ✅ Firebase
+- ✅ MySQL - ✅ MongoDB - ✅ MariaDB - ✅ Redis - ✅ PostgreSQL
+- ✅ Oracle - ✅ Firebase
 
 ### APIs:
 
 - ✅ Creating a RESTful API system for all applications.
 - ✅ Experience with APIs such as Amazon, Twilio, Google, Facebook, LinkedIn, Twitter, Stripe, YouTube, Vimeo, Pinterest, and Firebase.
-
 - ✅ Development of all APIs that have documentation or support.
 
 ### VCS:
@@ -70,10 +40,7 @@ Looking for a dedicated and highly skilled Developer who can bring your vision t
 
 ### Methodology:
 
-- ✅ Scrum
-- ✅ Agile
-
-- ✅ Kanban
+- ✅ Scrum - ✅ Agile - ✅ Kanban
 
 ## Additional Skills:
 
@@ -93,117 +60,6 @@ Looking for a dedicated and highly skilled Developer who can bring your vision t
 
 ## Why Choose Me?
 When you choose to work with me, you can expect high-quality code that perfectly fits your expectations and budget. I am committed to delivering completely efficient and bug-free solutions that will propel your project to success.
-
-## Find Me on Upwork with These Magic Keywords:
-
-- A key developer and took Unicorn with two different companies
-- Backend
-
-- PHP
-- Laravel Framework
-
-- Livewire
-- Symfony
-
-- OOP
-- MVC
-
-- Dialogflow
-- Chatbot
-
-- Webhook
-- RESTful API
-
-- Golang
-- Python
-
-- Frontend
-- Javascript
-
-- React
-- Redux
-
-- GraphQL
-- Vue.JS
-
-- Vuex
-- Vuetify
-
-- Nuxt.JS
-- TypeScript
-
-- Kotlin
-- jQuery
-
-- jQuery UI
-- Angular
-
-- Angular JS
-- HTML5
-
-- CSS3
-- LESS
-
-- SASS
-- SCSS
-
-- Bootstrap UI
-- ﻿Semantic UI
-
-- ﻿Element UI
-- Webpack
-
-- Jest
-- Cypress
-
-- CKEditor
-- Databases
-
-- MySQL
-- MongoDB
-
-- MariaDB
-- Redis
-
-- PostgreSQL
-- Oracle
-
-- Firebase
-- APIs
-
-- RESTful API
-- Amazon
-
-- Twilio
-- Google
-
-- Facebook
-- LinkedIn
-
-- Twitter
-- Stripe
-
-- YouTube
-- Vimeo
-
-- Pinterest
-- Firebase
-
-- VCS
-- Git
-
-- (Github, Bitbucket, Assembla, Gitlab)
-- Core web
-
-- XML
-- JSON
-
-- Methodology
-- Scrum
-
-- Agile
-- Kanban
-
 
 ---
 
