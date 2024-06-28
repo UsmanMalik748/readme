@@ -9,20 +9,25 @@ Looking for a dedicated and highly skilled Developer who can bring your vision t
 
 ### Backend:
 
-- ✅ PHP - ✅ Laravel Framework / Livewire - ✅ Symfony - ✅ Unit / Functional testing - ✅ OOP / MVC / Design patterns - ✅ Dialogflow (Chatbot, Webhook)
-- ✅ RESTful API for applications
-- ✅ CI / CD
+- ✅ PHP                              - ✅ Laravel Framework / Livewire 
+- ✅ Unit / Functional testing        - ✅ OOP / MVC / Design patterns 
+- ✅ Dialogflow (Chatbot, Webhook)    - ✅ RESTful API for applications
+- ✅ CI / CD                          - ✅ Symfony 
 
 ### Frontend & Backend:
 
-- ✅ Javascript - ✅ React / Redux / GraphQL / React Native - ✅ Vue.JS / Vuex / Vuetify / Nuxt.JS - ✅ TypeScript
-- ✅ Node - ✅ jQuery / jQuery UI - ✅ HTML5 / CSS3 / LESS / SASS / SCSS - ✅ Bootstrap UI / ﻿Semantic UI / ﻿Element UI / ﻿﻿Bulma / Foundation 
-- ✅ Webpack / Gulp - ✅ Jest / Cypress - ✅ CKEditor
+- ✅ Javascript      - ✅ React / Redux / GraphQL / React Native 
+- ✅ Node            - ✅ jQuery / jQuery UI 
+- ✅ Webpack / Gulp  - ✅ Jest / Cypress 
+- ✅ TypeScript      - ✅ Bootstrap UI / ﻿Semantic UI / ﻿Element UI / ﻿﻿Bulma / Foundation 
+- ✅ CKEditor        - ✅ Vue.JS / Vuex / Vuetify / Nuxt.JS  
+- ✅ HTML5 / CSS3 / LESS / SASS / SCSS 
 
 ### Databases:
 
-- ✅ MySQL - ✅ MongoDB - ✅ MariaDB - ✅ Redis - ✅ PostgreSQL
-- ✅ Oracle - ✅ Firebase
+- ✅ MySQL    - ✅ MongoDB     - ✅ MariaDB 
+- ✅ Oracle   - ✅ Firebase    - ✅ Redis
+- ✅ PostgreSQL
 
 ### APIs:
 
@@ -44,11 +49,9 @@ Looking for a dedicated and highly skilled Developer who can bring your vision t
 
 ## Additional Skills:
 
-- ✔️ Payment Method Integration
-- ✔️ Webhooks PayPal and Stripe
+- ✔️ Payment Method Integration   - ✔️ Webhooks PayPal and Stripe
 
-- ✔️ Social API Integration
-- ✔️ IPN Integration ClickBank and JVZoo
+- ✔️ Social API Integration       - ✔️ IPN Integration ClickBank and JVZoo
 
 - ✔️ AWS
 - ✔️ Firebase
